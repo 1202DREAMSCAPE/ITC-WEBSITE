@@ -7,7 +7,9 @@
       
       b.Horizontal Rules, CSS Layouts, CSS Framework
       
-      c.Formsd.Links sites and Imagesand animation
+      c.Forms
+      
+      d.Links sites and Imagesand animation
       
       e.Link video and songs(optional)
       
