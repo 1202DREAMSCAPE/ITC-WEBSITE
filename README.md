@@ -19,5 +19,6 @@
 5. The menu must be found in all pages and links must work from all locations.
 
 GET TEMPLATE HERE: https://drive.google.com/file/d/1mzfjDdjyxMRxth86GSH4qtuSEPlBuWpd/view?usp=sharing
-      Documentation Folder: Guide
-      Web: Website Folder
+
+Documentation Folder: Guide 
+Web: Main/Website Folder
