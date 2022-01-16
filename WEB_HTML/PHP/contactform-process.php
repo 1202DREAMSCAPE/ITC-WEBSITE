@@ -25,7 +25,7 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "seajay.crz@gmail.com";
+$EmailTo = "emailhere";
 $Subject = "New message from Aria landing page";
 
 // prepare email body text
